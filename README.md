@@ -20,3 +20,6 @@ This project demonstrates the use of **scikit-learn** for building a linear regr
 - `scikit-learn`
 - `seaborn`
 - `matplotlib`
+
+
+Database Used: House Prices from Kaggle.
